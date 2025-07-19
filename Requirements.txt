@@ -1,0 +1,1 @@
+# Requirements for Password Strength Checkerpython>=3.8# No external libraries required.# Uses built-in modules: re, tkinter
