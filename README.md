@@ -14,7 +14,7 @@ This project is a simple Python application that checks how strong a password is
 - Suggestions for improvement
 - Scoring system (0 to 5)
 
-## 🖥️ GUI Version (Tkinter)
+## GUI Version (Tkinter)
 
 Run the GUI version using:
 
